@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-travis-ci-demo/static/css/main.b100e6da.chunk.css",
+    "main.js": "/react-travis-ci-demo/static/js/main.0bb75dfa.chunk.js",
+    "main.js.map": "/react-travis-ci-demo/static/js/main.0bb75dfa.chunk.js.map",
+    "runtime-main.js": "/react-travis-ci-demo/static/js/runtime-main.a963fb28.js",
+    "runtime-main.js.map": "/react-travis-ci-demo/static/js/runtime-main.a963fb28.js.map",
+    "static/js/2.4ff1efb0.chunk.js": "/react-travis-ci-demo/static/js/2.4ff1efb0.chunk.js",
+    "static/js/2.4ff1efb0.chunk.js.map": "/react-travis-ci-demo/static/js/2.4ff1efb0.chunk.js.map",
+    "index.html": "/react-travis-ci-demo/index.html",
+    "precache-manifest.50c0656de9e5533e33a6d0134c2b944f.js": "/react-travis-ci-demo/precache-manifest.50c0656de9e5533e33a6d0134c2b944f.js",
+    "service-worker.js": "/react-travis-ci-demo/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/react-travis-ci-demo/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/react-travis-ci-demo/static/media/logo.25bf045c.svg"
+  }
+}
